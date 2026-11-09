@@ -1,0 +1,41 @@
+{
+  "birthdayPerson": {
+    "name": "Keerthana",
+    "title": "Happy Birthday, Keerthana! ❤️",
+    "birthdayDate": "2026-11-10",
+    "birthdayTime": "00:00:00",
+    "timezone": "Asia/Kolkata"
+  },
+  "countdown": {
+    "enabled": true,
+    "showDays": true,
+    "showHours": true,
+    "showMinutes": true,
+    "showSeconds": true
+  },
+  "birthdayMessage": {
+    "heading": "Happy Birthday, Dearest Keerthana! ❤️",
+    "message": "Dearest Keerthana,\n\nYou are one of the most wonderful, kind, and radiant souls in my life. Your smile brings so much warmth, and every moment spent with you is truly special.\n\nI hope your day is filled with boundless happiness, sweet laughter, love, and unforgettable memories. May all your dreams take flight and turn into reality!\n\nKeep shining bright, keep smiling your magical smile, and stay blessed always. Today is all about YOU, Keerthana. Celebrate and enjoy every single second of it! 🎉🎂✨",
+    "signature": "With all my love and blessings, forever ❤️"
+  },
+  "media": {
+    "photos": ["/media/photos/photo1.jpg", "/media/photos/photo2.jpg", "/media/photos/photo3.jpg", "/media/photos/photo4.jpg", "/media/photos/photo5.jpg"],
+    "videos": ["/media/videos/surprise.mp4"],
+    "backgroundMusic": "/media/music/birthday.mp3"
+  },
+  "features": {
+    "fireworks": true,
+    "confetti": true,
+    "backgroundMusic": true,
+    "photoGallery": true,
+    "videoGallery": true,
+    "birthdayCake": true,
+    "secretMessage": true
+  },
+  "celebration": {
+    "enableAutomaticTrigger": true,
+    "allowPreview": true,
+    "allowReset": true,
+    "celebrationDuration": "whole-day"
+  }
+}
